@@ -1,11 +1,7 @@
 #include "main.h"
 
 
-	/**
-	 * print_alphabet this function outputs the alphabet in some form
-	 * It may take different parameters or have different variations,
-	 * but in general, it could be expected to output the 26 letters
-	 * of the English alphabet
+	/** Prints the alphabet in lowercase
 	 */
 void print_alphabet(void)
 {
